@@ -1,0 +1,11 @@
+# Ignorar carpetas generadas automáticamente por Unity
+Explorer/Library/
+Explorer/Logs/
+Explorer/Temp/
+Explorer/UserSettings/
+
+# Ignorar archivos de compilación
+Explorer/Builds/
+
+# Ignorar archivos personales de VS Code
+Explorer/.vscode/
